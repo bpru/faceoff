@@ -1,0 +1,14 @@
+/Users/JCChiang/omscs/CS6475_CP/assignments/final_project/FaceSwap/dlib-19.2/tools/python/build/CMakeFiles/install/local.dir
+/Users/JCChiang/omscs/CS6475_CP/assignments/final_project/FaceSwap/dlib-19.2/tools/python/build/CMakeFiles/install/strip.dir
+/Users/JCChiang/omscs/CS6475_CP/assignments/final_project/FaceSwap/dlib-19.2/tools/python/build/CMakeFiles/dlib_.dir
+/Users/JCChiang/omscs/CS6475_CP/assignments/final_project/FaceSwap/dlib-19.2/tools/python/build/CMakeFiles/install.dir
+/Users/JCChiang/omscs/CS6475_CP/assignments/final_project/FaceSwap/dlib-19.2/tools/python/build/CMakeFiles/list_install_components.dir
+/Users/JCChiang/omscs/CS6475_CP/assignments/final_project/FaceSwap/dlib-19.2/tools/python/build/CMakeFiles/rebuild_cache.dir
+/Users/JCChiang/omscs/CS6475_CP/assignments/final_project/FaceSwap/dlib-19.2/tools/python/build/CMakeFiles/edit_cache.dir
+/Users/JCChiang/omscs/CS6475_CP/assignments/final_project/FaceSwap/dlib-19.2/tools/python/build/dlib_build/CMakeFiles/install/local.dir
+/Users/JCChiang/omscs/CS6475_CP/assignments/final_project/FaceSwap/dlib-19.2/tools/python/build/dlib_build/CMakeFiles/install/strip.dir
+/Users/JCChiang/omscs/CS6475_CP/assignments/final_project/FaceSwap/dlib-19.2/tools/python/build/dlib_build/CMakeFiles/install.dir
+/Users/JCChiang/omscs/CS6475_CP/assignments/final_project/FaceSwap/dlib-19.2/tools/python/build/dlib_build/CMakeFiles/list_install_components.dir
+/Users/JCChiang/omscs/CS6475_CP/assignments/final_project/FaceSwap/dlib-19.2/tools/python/build/dlib_build/CMakeFiles/rebuild_cache.dir
+/Users/JCChiang/omscs/CS6475_CP/assignments/final_project/FaceSwap/dlib-19.2/tools/python/build/dlib_build/CMakeFiles/edit_cache.dir
+/Users/JCChiang/omscs/CS6475_CP/assignments/final_project/FaceSwap/dlib-19.2/tools/python/build/dlib_build/CMakeFiles/dlib.dir
